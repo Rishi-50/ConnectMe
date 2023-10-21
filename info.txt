@@ -1,0 +1,11 @@
+Project Id - projectID="2508794a-7dea-4a84-97f4-c33483f3f301"
+
+
+Chat Room -> Colege Stuff = 3566
+
+Login Details:
+
+Rishi_60 = 3566 - (admin)
+Ruchit_50 = 4567
+Neel_80 = 1234
+
